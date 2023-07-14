@@ -1,0 +1,38 @@
+.img{
+    position: relative;
+    top: 0px;
+    left: 260px;
+}
+.eye1{
+    border: 6px solid black;
+    height: 140px;
+    width: 140px;
+    border-radius: 100%;
+    background-color: whitesmoke;
+    position: relative;
+    bottom: 600px;
+    left: 955px;
+    
+}
+.eye2{
+    border: 6px solid black;
+    height: 140px;
+    width: 140px;
+    border-radius: 100%;
+    background-color: whitesmoke;
+    position: relative;
+    bottom: 740px;
+    left: 1200px;
+}
+.ball{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    border-radius: 100%;
+    position: absolute;
+    top: 60px;
+    left: 50px;
+}
+body{
+    position: fixed;
+}
